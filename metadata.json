@@ -1,0 +1,7 @@
+{
+  "name": "SumUp - Professional Ledger",
+  "description": "High-speed expense tracker with partial payment support, receipt attachments, and a money diary timeline.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
